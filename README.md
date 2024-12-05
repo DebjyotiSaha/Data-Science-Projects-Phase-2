@@ -5,6 +5,7 @@ This repository contains a collection of data science projects implemented using
 ## Projects
 1. **EV Market Share Analysis**: Analyzing trends and insights in the Electric Vehicle market.
 2. **Time Series Clustering**: Clustering time series data for trend analysis.
+3. **Time Series Forecasting**: Forecasting time series data with distribution.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/DebjyotiSaha/Data-Science-Projects-Phase-2.git`
